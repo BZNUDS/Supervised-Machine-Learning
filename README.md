@@ -5,10 +5,10 @@
     https://github.com/BZNUDS/Supervised-Machine-Learning
 
 ## My FINAL Jupyter Notebook can be found at the following location on GitHub: 
-    http://localhost:8888/notebooks/Class/Supervised-Machine-Learning/Credit_Risk_Evaluator_FINAL.ipynb
+    https://github.com/BZNUDS/Supervised-Machine-Learning/blob/main/Credit_Risk_Evaluator_FINAL.ipynb
 
 ## My README.md file can be found at the following location on GitHub: 
-    http://localhost:8888/edit/Class/Supervised-Machine-Learning/README.md#
+    https://github.com/BZNUDS/Supervised-Machine-Learning/blob/main/README.md
 
 
 In this assignment, I will be building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
